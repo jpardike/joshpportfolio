@@ -1,6 +1,14 @@
 # joshpportfolio
 
+## Overview
+
 Portfolio site for Joshua Pardike.
+
+## Design
+
+### Wireframes
+
+![Project Wireframes](./media/joshpportfolio-wireframes.png)
 
 ---
 
